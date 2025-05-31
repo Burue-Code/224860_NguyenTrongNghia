@@ -1,2 +1,3 @@
 Name: NguyenTrongNghia
 Interests: Coding, Design
+Skills: C#, HTML, Git
